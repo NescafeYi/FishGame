@@ -26,7 +26,7 @@ aneObj.prototype.init = function(){
 //	linecap（）设置或返回线条的结束端点样式。
 //	globalAlpha 透明度
 aneObj.prototype.draw = function(){
-	this.alpha += deltaTime * 0.0006; 
+	this.alpha += deltaTime * 0.0006;  
 	var l = Math.sin(this.alpha);// [-1 , 1]
 	ctx2.save();
 	ctx2.globalAlpha = 0.6;

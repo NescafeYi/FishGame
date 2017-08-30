@@ -1,0 +1,16 @@
+
+//绘制海葵需要用到的API
+beginPath（） 方法开始一条路径或重置当前路径。
+closePath（） 创建从当前点回到起始点的路径。
+strokestyle（） 设置或返回用于笔触的颜色、渐变或模式。
+stroke（） 绘制已定义的路径。
+linewidth（）设置或返回当前的线条宽度。
+linecap（）设置或返回线条的结束端点样式。
+globalAlpha 透明度
+
+//画大鱼，身子，尾巴，眼睛 用到的API
+translate() 
+rotale()
+math.atan2(y,x);
+
+

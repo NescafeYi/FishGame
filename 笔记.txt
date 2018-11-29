@@ -1,4 +1,4 @@
-
+﻿
 //绘制海葵需要用到的API
 beginPath（） 方法开始一条路径或重置当前路径。
 closePath（） 创建从当前点回到起始点的路径。
@@ -14,3 +14,4 @@ rotale()
 math.atan2(y,x);
 
 
+git test
